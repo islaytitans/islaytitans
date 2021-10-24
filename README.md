@@ -4,8 +4,8 @@
 
 I'm the Head Engineer at the Royal College of Nuring
 
-- 🔭 I’m currently working professionally on web apps
-- 🔭 I’m currently working Dungeons and Dragons tools 
+- ⚙️ I’m currently working professionally on web apps for nurses
+- 🔭 I’m currently working Dungeons and Dragons tools
 - 🌱 I’m currently learning React and Next
 
 ## Tech
@@ -24,9 +24,10 @@ I'm the Head Engineer at the Royal College of Nuring
 
 ## You can find my stuff at
 
-- [https://jonathanrobbins.co.uk](jonathanrobbins.co.uk)
-- [@ISlayTitans](https://twitter.com/ISlayTitans)
-- (CV)[https://jonathanrobbins.dev/cv/]
+- 📝 [jonathanrobbins.co.uk](https://jonathanrobbins.co.uk)
+- 👨‍💻 [ISlayTitans](https://github.com/islaytitans)
+- 🐦 [@ISlayTitans](https://twitter.com/ISlayTitans)
+- 📃 [CV](https://jonathanrobbins.dev/cv/)
 
 
 
