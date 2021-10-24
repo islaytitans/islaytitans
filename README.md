@@ -21,6 +21,8 @@ I'm the Head Engineer at the Royal College of Nuring
 <img align="left" alt="visual studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudio.svg" />
 <img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" />
 
+<br />
+
 ## You can find my stuff at
 
 [<img align="left" alt="jonathanrobbins.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jonathanrobbins.co.uk)
