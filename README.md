@@ -14,6 +14,8 @@ I'm the Head Engineer at the Royal College of Nuring
 
 <img align="left" alt="dotnet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dotnet.svg" />
 <img align="left" alt="c sharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" />
+<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />
+<img align="left" alt="typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" />
 <img align="left" alt="vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vuedotjs.svg" />
 <img align="left" alt="nuxt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nuxtdotjs.svg" />
 <img align="left" alt="ionic" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ionic.svg" />
