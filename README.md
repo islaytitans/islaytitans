@@ -24,8 +24,8 @@ I'm the Head Engineer at the Royal College of Nuring
 
 ## You can find my stuff at
 
-- (jonathanrobbins.co.uk)[https://jonathanrobbins.co.uk]
-- (@ISlayTitans)[https://twitter.com/ISlayTitans]
+- [https://jonathanrobbins.co.uk](jonathanrobbins.co.uk)
+- [@ISlayTitans](https://twitter.com/ISlayTitans)
 - (CV)[https://jonathanrobbins.dev/cv/]
 
 
