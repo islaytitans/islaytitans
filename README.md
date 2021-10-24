@@ -12,34 +12,20 @@ I'm the Head Engineer at the Royal College of Nuring
 
 ## Tech
 
-- .NET
-- Vue
-- Nuxt
-- Sitecore
-- Progressive Web Apps
-- Ionic
+<img align="left" alt="dotnet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dotnet.svg" />
+<img align="left" alt="c sharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" />
+<img align="left" alt="vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vuedotjs.svg" />
+<img align="left" alt="nuxt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nuxtdotjs.svg" />
+<img align="left" alt="ionic" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ionic.svg" />
+<img align="left" alt="pwa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pwa.svg" />
+<img align="left" alt="visual studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudio.svg" />
+<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" />
 
 ## You can find my stuff at
 
-- 📝 [jonathanrobbins.co.uk](https://jonathanrobbins.co.uk)
-- 👨‍💻 [ISlayTitans](https://github.com/islaytitans)
-- 🐦 [@ISlayTitans](https://twitter.com/ISlayTitans)
-- 📃 [CV](https://jonathanrobbins.dev/cv/)
-
-
-
-
-<!--
-**islaytitans/islaytitans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="jonathanrobbins.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jonathanrobbins.co.uk)
+[<img align="left" alt="jonathanrobbins | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />](https://twitter.com/ISlayTitans)
+[<img align="left" alt="jonathanrobbins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />](https://www.linkedin.com/in/jonathan-robbins-aa386b24/)
+[<img align="left" alt="jonathanrobbins | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />](https://www.instagram.com/jonathanmrobbins/)
+[<img align="left" alt="jonathanrobbins | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />](https://github.com/islaytitans)
+[<img align="left" alt="jonathanrobbins | CV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/readthedocs.svg" />](https://jonathanrobbins.dev/cv/)
