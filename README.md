@@ -4,9 +4,11 @@
 
 I'm the Head Engineer at the Royal College of Nuring
 
-- ⚙️ I’m currently working professionally on web apps for nurses
-- 🔭 I’m currently working Dungeons and Dragons tools
-- 🌱 I’m currently learning React and Next
+- ⚙️ I’m working professionally on web apps for nurses
+- 🔭 I’m working Dungeons and Dragons tools
+- 💻 I'm building with .NET, Vue and Nuxt
+- 🌱 I’m currently learning React, Next and Tailwind
+- 📖 I'm currently reading A Time for Dread and Death's End
 
 ## Tech
 
@@ -16,11 +18,6 @@ I'm the Head Engineer at the Royal College of Nuring
 - Sitecore
 - Progressive Web Apps
 - Ionic
-
-## Currently learning
-
-- React & Next
-- Tailwind
 
 ## You can find my stuff at
 
