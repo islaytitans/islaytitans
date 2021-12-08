@@ -8,7 +8,7 @@ I'm the Head Engineer at the Royal College of Nuring
 - 🔭 I’m working Dungeons and Dragons tools
 - 💻 I'm building with .NET, Vue and Nuxt
 - 🌱 I’m currently learning React, Next and Tailwind
-- 📖 I'm currently reading A Time for Dread and Death's End
+- 📖 I'm currently reading A Time for Blood and Leviathan Falls
 
 ## Tech
 
