@@ -6,9 +6,9 @@ I'm the Head Engineer at the Royal College of Nuring
 
 - ⚙️ I’m working professionally on web apps for nurses
 - 🔭 I’m working Dungeons and Dragons tools
-- 💻 I'm building with .NET, Vue and Nuxt
-- 🌱 I’m currently learning React, Next and Tailwind
-- 📖 I'm currently reading A Time for Blood and Leviathan Falls
+- 💻 I'm building with .NET, React and Next
+- 🌱 I’m currently learning Tailwind and Ionic
+- 📖 I'm currently reading the Red Rising series and The Bound and the Broken series
 
 ## Tech
 
