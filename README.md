@@ -8,7 +8,7 @@ I'm the Head Engineer at the Royal College of Nuring
 - 🔭 I’m working Dungeons and Dragons tools
 - 💻 I'm building with .NET, React and Next
 - 🌱 I’m currently learning Tailwind and Ionic
-- 📖 I'm currently reading the Red Rising series and The Bound and the Broken series
+- 📖 I'm currently reading the First Law series and Sun Eater series
 
 ## Tech
 
